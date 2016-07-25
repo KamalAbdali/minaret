@@ -27,7 +27,7 @@ indispensable.
 
 -  distrib
 This directory contains the files that the user needs for running
-the executive. It contains one dll and two ocx files that are 
+the executive. It includes one dll and two ocx files that are 
 needed by the program. These files are usually already in the OS 
 but occasionally they are missing. A zip of the files in this 
 directory is a convenient way to distribute the program. Such a  
